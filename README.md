@@ -1,5 +1,5 @@
 
-# Assignment
+# Web Page
 
 This project consists of a website created as part of an assignment. The website is built using HTML and CSS, and it is structured to showcase various sections, including a header, main content area, and footer.
 
